@@ -1,0 +1,8 @@
+{
+  "name": "Restore After Shell Restart",
+  "description": "After shell restart (Alt+F2, r) windows positions are messed up. This extension tries to restore them.",
+  "uuid": "restoreafterrestart",
+  "shell-version": [
+    "3.38"
+  ]
+}
